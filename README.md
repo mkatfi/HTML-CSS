@@ -1,7 +1,8 @@
 # HTML & CSS Course
-
 ## Overview
 This repository contains learning materials and projects focused on **HTML and CSS concepts**. It covers techniques in structuring web content, styling elements, and improving layout responsiveness using modern CSS methodologies. The course is split into **Beginner** and **Advanced** sections.
+
+![Html Css](./image/5396030_f3ee_5.webp)
 
 ---
 
